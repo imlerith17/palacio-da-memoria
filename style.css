@@ -1,0 +1,112 @@
+body{
+    background-color: #FAFAFA;
+    font-family: 'Lato', sans-serif;
+}
+
+.wellcome{
+    margin: 5% 10%;
+}
+
+.sup-txt{
+    color: #546E7A;
+    font-size: 1em;
+}
+
+.tit{
+    font-size: 2em;
+}
+
+.jus{
+    text-align: justify;
+    margin-left: 3%;
+}
+
+.absurdo{
+    width: 100%;
+    padding: 0 5% 3% 5%;
+    background-color: #24AAE1;
+    float: left;
+}
+
+.absurdo img{
+    width: 60%;
+    height: auto;
+    float: left;
+}
+
+.welcome{
+    width: 100%;
+    float: left;
+    height: 500px;
+    padding: 3% 5%;
+}
+
+.txt01{
+    width: 30%;
+    float: left;
+}
+
+.txt01 h3{
+    font-family: 'Amatic SC', cursive;
+    color: #455A64;
+    font-size: 6em;
+    line-height: 100%;
+}
+
+.txt01 p{
+    font-family: 'Droid Serif', serif;
+    color: #757575;
+}
+
+.welcome img{
+    width: 55%;
+    float: left;
+    margin: 5%;
+}
+
+.texto{
+    width: 20%;
+    float: left;
+    margin-top: 2%;
+}
+
+.texto h3{
+    font-family: 'Amatic SC', cursive;
+    color: #90DDF8;
+    font-size: 6em;
+    line-height: 100%;
+}
+
+.texto p{
+    color: #FFF;
+    font-size: 1.3em;
+    font-family: 'Droid Serif', serif;
+}
+
+.contato{
+    width: 100%;
+    background-color: #F5F5F5;
+    height: 370px;
+    float: left;
+}
+
+.contato h3{
+    font-family: 'Amatic SC', cursive;
+    font-size: 6em;
+    line-height: 100%;
+}
+
+.texto02{
+    width: 60%;
+    float: left;
+    margin: 5% 20%;
+    text-align: center;
+}
+
+.texto02 p{
+    font-family: 'Droid Serif', serif;
+}
+
+.space{
+    margin-top: 2%;
+}
